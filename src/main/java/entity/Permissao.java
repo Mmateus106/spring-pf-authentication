@@ -39,4 +39,6 @@ public class Permissao {
             foreignKey = @ForeignKey(name = "FK_SISTEMA_PERMISSAO")
     )
     private Sistema sistema;
+
 }
+
